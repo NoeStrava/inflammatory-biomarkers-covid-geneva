@@ -1,0 +1,14 @@
+# Restricted individual-level data
+Data/*.csv
+Data/*.xlsx
+Data/*.parquet
+
+# Generated outputs
+Data/results/
+Data/figures/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
