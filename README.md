@@ -12,12 +12,6 @@ This repository contains the analytical code underlying the manuscript on inflam
 
 Individual-level Bus Santé data are **not included** in this repository because participant consent does not authorize unrestricted public sharing.
 
-To run the notebook, place the analytical dataset at:
-
-`Data/11_06_biomarker_metafile_for_python.csv`
-
-or edit `DATA_PATH` in the first code cell.
-
 ## Analyses reproduced
 
 1. Table 1 — participant characteristics by pandemic period
