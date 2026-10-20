@@ -24,9 +24,7 @@ Individual-level Bus Santé data are **not included** in this repository because
 8. Table S5 — lifestyle–biomarker associations
 9. Table S6 / Figure 3 — lifestyle-stratified pre/post-pandemic differences and interaction tests
 
-## Running the analysis
 
-Create a Python environment, install dependencies, open the notebook, then use **Restart Kernel and Run All**. Generated tables are written to `Data/results/` and figures to `Data/figures/`.
 
 
 ## Data availability
